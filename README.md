@@ -1,2 +1,6 @@
-由于FIR滤波器对于低频滤波需要非常非常大的窗口和非常多项，资源开销巨大。  
-一个受到LR电路启发的朴素滤波算法,开销极低,速度极快。   
+# Naive Low Pass Filter Algorithm
+
+### Overview
+
+A Naive LPF, cost ultra-tiny resources.   
+Less than 100 lines to save 1$ (pcmd3140, adau1002, etc..)
